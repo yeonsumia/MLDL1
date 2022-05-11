@@ -2,7 +2,7 @@
 ### Lecture Information
 Institute: Seoul National University (**SNU**)  
 Semester: 22-spring  
-Instructor: Prof. Min-hwan Oh, Prof. Jun-seok Lee   
+Instructor: Prof. Min-hwan Oh, Prof. Joon-seok Lee   
 Language: **Python** 3
 
 ### Assignments

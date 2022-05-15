@@ -6,5 +6,5 @@
 *.docx
 
 # training data
-mnist/
-CIFAR_10/
+HW3/mnist/
+HW3/CIFAR_10/

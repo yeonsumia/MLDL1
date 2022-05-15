@@ -4,3 +4,7 @@
 *.csv
 *.zip
 *.docx
+
+# training data
+mnist/
+CIFAR_10/

@@ -1,6 +1,6 @@
 # MLDL1 📚
 ### Lecture Information
-Institute: Seoul National University (**SNU**)  
+Institute: Seoul National University Graduate School of Data Science (**SNU GSDS**)  
 Semester: 22-spring  
 Instructor: Prof. Min-hwan Oh, Prof. Joon-seok Lee   
 Language: **Python** 3

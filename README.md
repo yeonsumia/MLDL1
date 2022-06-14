@@ -8,7 +8,7 @@ Language: **Python** 3
 ### Assignments
 **HW1** (100/100)  
 *Regression, Cross-validation Practice*  
-**HW2**  
+**HW2** (98/100)  
 *Classification Challenge*  
-**HW3**  
+**HW3** (107/120)  
 *k-Nearest Neighbors Algorithm, 2-layer Neural Network, Convolutional Neural Network*

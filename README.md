@@ -11,4 +11,6 @@ Language: **Python** 3
 **HW2** (98/100)  
 *Classification Challenge*  
 **HW3** (107/120)  
-*k-Nearest Neighbors Algorithm, 2-layer Neural Network, Convolutional Neural Network*
+*k-Nearest Neighbors Algorithm, 2-layer Neural Network, Convolutional Neural Network*  
+**HW4**  
+*Recurrent Neural Network, LSTM, GRU, Seq2seq, Transformer(Attention Is All You Need)*
